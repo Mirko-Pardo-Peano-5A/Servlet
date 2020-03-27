@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 27-mar-2020, 13.12.03
-    Author     : Arcadal
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML>
 <html>
